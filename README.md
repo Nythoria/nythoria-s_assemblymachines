@@ -1,2 +1,2 @@
 # Nythoria's Assembly Machines
-Nythoria's Assembly Machines Factorio Mod
+Adds additional Teirs of Assembly Machine to Factorio
