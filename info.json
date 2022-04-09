@@ -1,0 +1,10 @@
+{
+    "name": "nythorias_assemblymachines",
+    "version": "1.0.0",
+    "title": "✔ Nythoria's Assembly Machines",
+    "author": "Nythoria",
+    "factorio_version": "1.1",
+    "dependencies": [
+    ],
+    "description": "Adds additional tiers of Assemblers to the Game"
+  }
